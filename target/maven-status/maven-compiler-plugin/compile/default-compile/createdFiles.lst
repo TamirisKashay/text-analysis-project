@@ -1,0 +1,8 @@
+algorithms/KasaiLCP.class
+algorithms/RabinKarpMatcher.class
+algorithms/NaiveMatcher.class
+Main.class
+algorithms/KMPMatcher.class
+algorithms/LCS.class
+algorithms/EditDistance.class
+benchmark/ExperimentRunner.class
